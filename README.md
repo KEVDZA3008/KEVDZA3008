@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KEVDZA3008
-- 🌱 I’m currently learning web development
+- 🌱 Trying to learn multiple things
+- 
 
 <!---
 KEVDZA3008/KEVDZA3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
